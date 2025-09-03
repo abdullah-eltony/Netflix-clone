@@ -22,9 +22,8 @@ This project was built using a powerful stack of technologies to ensure high per
 *   **JavaScript (ES6+):** For the frontend logic and interactive functionalities.
 *   **React Router DOM:** For seamless routing and navigation within the single-page application.
 *   **Axios / Fetch API:** For handling efficient data fetching from external Application Programming Interfaces (APIs).
-*   **[API Name Used]:** (e.g., TMDB API for movie/TV show data) to provide rich content information.
-*   **(Optional) [CSS Framework/Library Name]:** (e.g., Styled Components, Tailwind CSS, Material-UI) for enhanced styling and component development.
-*   **(Optional) Redux / Context API:** (If used for global state management) for managing complex application state.
+*   **API Name Used:** TMDB API for movie/TV show data to provide rich content information.
+*   **CSS Framework:** Tailwind CSS.
 
 ## ⚙️ How to Run Locally
 
@@ -68,6 +67,7 @@ Ensure you have [Node.js](https://nodejs.org/en/) (recommended v14 or newer) and
     The application will open in your default browser at `http://localhost:3000`.
 
 ## 📸 Screenshots
+<img width="1920" height="1225" alt="image" src="https://github.com/user-attachments/assets/8351a296-2dab-4856-8162-4fca57a10ebb" />
 
 Here are some glimpses of NETFLIXO in action, showcasing its sleek design and user interface:
 
@@ -77,33 +77,11 @@ Here are some glimpses of NETFLIXO in action, showcasing its sleek design and us
 
 **(Optional but highly recommended)**
 
-Experience NETFLIXO live: [Link to your deployed application, e.g., on Netlify, Vercel, or GitHub Pages]
-
-## 🤝 Contributing
-
-Contributions are welcome! If you have suggestions for features, improvements, or find any bugs, please feel free to:
-
-*   Open an [issue](https://github.com/your-username/netflixo-clone/issues) to discuss.
-*   Submit a [pull request](https://github.com/your-username/netflixo-clone/pulls) with your proposed changes.
-
-## 📝 License
-
-This project is open source and available under the [e.g., MIT License].
+Experience NETFLIXO live: https://netflix-clone-rho-roan.vercel.app/
 
 ## 👨‍💻 Developer
 
-**[Your Full Name]**
+**Abdullah Mohamed**
 
-*   **GitHub:** [Link to your GitHub profile]
-*   **LinkedIn:** [Link to your LinkedIn profile]
-*   **Portfolio:** [Link to your personal website/portfolio, if you have one]
-
----
-
-**Remember to:**
-
-*   Replace placeholders like `[your-username]`, `[API Name Used]`, `[CSS Framework/Library Name]`, `[Your Full Name]`, and all bracketed links `[]` with your actual information.
-*   Ensure the image link for the screenshot points to where you've hosted your image. If it's in your GitHub repo, you'd use a relative path (e.g., `assets/screenshot.png`).
-*   Update the "Key Features" and "Technologies Used" sections to accurately reflect what is **actually implemented** in your project. If a feature isn't there, remove or mark it as "(Conditional)" and explain.
-
-This `README` will significantly boost the presentation of your impressive Netflix clone!
+*   **GitHub:** https://github.com/abdullah-eltony
+*   **LinkedIn:** https://www.linkedin.com/in/abdullah-mohamed-korany-984186374/
