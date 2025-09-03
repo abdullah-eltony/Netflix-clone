@@ -1,0 +1,11 @@
+import HomeScreen from "./HomeScreen";
+import About from "./About";
+import NotFound from "./NotFound";
+import MoviesPage from "./Movies";
+import Contact from "./Contact";
+import SingleMovie from "./SingleMovie";
+import Watch from "./Watch";
+import Login from "./Login";
+import Regester from "./Regester";
+import Profile from "./dashboard/Profile";
+export { HomeScreen, About, Login, Regester, NotFound, MoviesPage, Contact, SingleMovie, Watch,Profile };
